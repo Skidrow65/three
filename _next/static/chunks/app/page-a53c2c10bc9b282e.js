@@ -41,7 +41,7 @@
                         }), (0,
                             r.jsx)("h1", {
                             className: "text-4xl my-4 text-center",
-                            children: "Salaam Aleikum.Will you be my Valentine mona?"
+                            children: "Salaam Aleikum.Will you be my Valentine gracie?"
                         }), (0,
                             r.jsxs)("div", {
                             className: "flex flex-wrap flex-col md:flex-row gap-4 items-center justify-center",
